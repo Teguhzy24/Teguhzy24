@@ -1,5 +1,6 @@
 # Hi, I'm Teguh Albab Darun 👋
 
+## 🧑‍💻 About Me
 I’m an Informatics student at Universitas Pasundan.  
 Currently learning and exploring various topics in technology through coursework and personal projects.
 
