@@ -12,11 +12,10 @@ Currently learning and exploring various topics in technology through coursework
 - Basic programming concepts
 
 ### 📂 Recent Projects
-- [Mini Web Project](https://github.com/example) – simple HTML/CSS practice
-- [Learning JavaScript](https://github.com/example) – exercises and notes
-
+- 
+-
 ### 📫 Contact
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
 
 
