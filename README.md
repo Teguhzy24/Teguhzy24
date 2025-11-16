@@ -12,7 +12,8 @@ Currently learning and exploring various topics in technology through coursework
 - Git & GitHub
 - Basic programming concepts
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/teguhadd_/)
+
 
 
 
