@@ -12,7 +12,7 @@ Currently learning and exploring various topics in technology through coursework
 - Git & GitHub
 - Basic programming concepts
 
-<a href="https://www.instagram.com/teguhadd_/">
+<a href="https://www.instagram.com/teguhadd_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
 </a>
 
