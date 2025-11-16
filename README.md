@@ -12,10 +12,6 @@ Currently learning and exploring various topics in technology through coursework
 - Git & GitHub
 - Basic programming concepts
 
-### 📂 Recent Projects
-- 
--
-
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
 
