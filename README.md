@@ -14,10 +14,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Teguhzy24&show_icons=true&theme=dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teguhzy24&layout=compact&theme=dark" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Teguhzy24&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
