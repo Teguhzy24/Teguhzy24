@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Teguh Albab Darun 👋</h1>
 
 <p align="center">
-  <em>Informatics Student at Universitas Pasundan • Tech Explorer • Full-Stack Dev Learner</em>
+  <em>Informatics Student at Universitas Pasundan • Tech Explorer • Full-Stack Wrb Dev Learner</em>
 </p>
 
 ---
